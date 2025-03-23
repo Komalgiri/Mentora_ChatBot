@@ -15,15 +15,6 @@ Mentora is a self-care and personal growth platform designed to provide users wi
 - **Backend**: Firebase (Authentication, Firestore Database, Storage)
 - **Hosting**: Netlify
 
-## 📸 Screenshots
-Here are some previews of the Mentora platform:
-
-![Home Page](screenshots/homepage.png)
-![Self-Care Section](screenshots/selfcare.png)
-![Creative Expression](screenshots/creative.png)
-
-> 📌 **Note**: Place your screenshots inside the `screenshots/` folder in your project repository.
-
 ## 🏗 Setup & Installation
 Follow these steps to run the project locally:
 
