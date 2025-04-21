@@ -9,6 +9,7 @@ import QuestionAns from './Components/QuestionAns'; // Import the QuestionAns co
 import Sleeptool from './Components/Sleeptool';
 import Creative from './Components/Creative';
 
+
 // Import icons from react-icons/fa for web
 import { FaCommentAlt, FaHeartbeat, FaLeaf, FaRainbow } from 'react-icons/fa';
 
@@ -29,6 +30,7 @@ function App() {
         <Route path="/sleeptool" element={<Sleeptool />} />
 
         <Route path="/creative" element={<Creative />} />
+       
         
       </Routes>
     </Router>
@@ -64,7 +66,7 @@ const ChatInterfaceWithTabs = () => (
       </Link>
       <Link to="story">
         <FaRainbow />
-        <span>Storyteller</span>
+        <span>Rewards</span>
       </Link>
     </div>
   </div>
